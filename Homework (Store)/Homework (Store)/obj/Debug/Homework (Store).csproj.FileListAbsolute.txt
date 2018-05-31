@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Homework (Store)\Homework (Store)\bin\Debug\Homework (Store).exe.config
+C:\Users\user\source\repos\Homework (Store)\Homework (Store)\bin\Debug\Homework (Store).exe
+C:\Users\user\source\repos\Homework (Store)\Homework (Store)\bin\Debug\Homework (Store).pdb
+C:\Users\user\source\repos\Homework (Store)\Homework (Store)\obj\Debug\Homework (Store).csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Homework (Store)\Homework (Store)\obj\Debug\Homework__Store_.Form1.resources
+C:\Users\user\source\repos\Homework (Store)\Homework (Store)\obj\Debug\Homework__Store_.Properties.Resources.resources
+C:\Users\user\source\repos\Homework (Store)\Homework (Store)\obj\Debug\Homework (Store).csproj.GenerateResource.Cache
+C:\Users\user\source\repos\Homework (Store)\Homework (Store)\obj\Debug\Homework (Store).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Homework (Store)\Homework (Store)\obj\Debug\Homework (Store).exe
+C:\Users\user\source\repos\Homework (Store)\Homework (Store)\obj\Debug\Homework (Store).pdb
